@@ -8,7 +8,7 @@
 <h1 align="center">Oi, eu sou a Letícia Monares 👋</h1>
 
 <p align="center"> 
-  DBA júnior de dia 💻, criadora de conteúdo gamer à noite 🎮, e eterna estudante de engenharia 🧠💡.
+  DBA júnior de dia , criadora de conteúdo gamer à noite , e eterna estudante de engenharia.
 </p>
 
 ---
