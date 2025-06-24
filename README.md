@@ -42,7 +42,7 @@
 
 ### ✨ Fun facts
 
-- 🎙️ Já fui convidada por marcas como **Overclock** e **Bandai Namco**
+- 🎙️ Já fui convidada por marcas como **Cinemark**, **Overclock** e **Bandai Namco**
 - 🧩 Adoro misturar conteúdo técnico com criatividade e humor
 - 🐱 Meu gato Tompero já apareceu em mais vídeos que eu
 
